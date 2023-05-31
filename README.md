@@ -49,7 +49,7 @@ cd Minitalk
 ```bash
 make
 ```
-
+<img src="https://github.com/MirkokriM/Minitalk/blob/main/README.FILE/Mini-Make-re-talk.gif">
 ## Usage
 
 To use the Minitalk 42 application, follow these steps:
@@ -73,3 +73,4 @@ To use the Minitalk 42 application, follow these steps:
 5. To terminate the application, press Ctrl+C in both the sender and receiver processes.
 
 ## Example
+<img src="https://github.com/MirkokriM/Minitalk/blob/main/README.FILE/Minitalk%20is%20SUS.gif">
